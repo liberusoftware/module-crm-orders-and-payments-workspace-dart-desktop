@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-orders-and-payments-workspace-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-orders-and-payments-workspace",
+  "presentation": "dart-desktop",
+  "package": "module_crm_orders_and_payments_workspace_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/orders-and-payments-workspace.md",
+  "presentationPlan": "projects/crm/features/orders-and-payments-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
